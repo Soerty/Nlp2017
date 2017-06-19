@@ -1,0 +1,11 @@
+﻿я	Ncmsny	<unknown>
+ты	P-2-snn	ты
+он	P-3msnn	он
+мы	P-1-pan	мы
+вы	P-2-pnn	вы
+они	P-3-pnn	они
+Себя 	Ncmsnn	<unknown>
+Мой	P--msna	мой
+Кто 	SENT	<unknown>
+что	C	что
+какой	P--msna	какой
